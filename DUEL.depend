@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1475898689 source:c:\users\equipo\documents\proyectos juegos y apps\duel\inicia.cpp
+	"inicia.h"
+	<allegro.h>
+
+1475898690 c:\users\equipo\documents\proyectos juegos y apps\duel\inicia.h
+
+1520214738 source:c:\users\equipo\documents\proyectos juegos y apps\duel\main.cpp
+	<allegro.h>
+	"inicia.h"
+	"mapa.h"
+
+1520172617 source:c:\users\equipo\documents\proyectos juegos y apps\duel\mapa.cpp
+	"inicia.h"
+	<allegro.h>
+
+1520173074 c:\users\equipo\documents\proyectos juegos y apps\duel\mapa.cpp
+
+1520215344 source:c:\users\equipo\documents\proyectos juegos y apps\duel\src\mapa.cpp
+	"mapa.h"
+	"inicia.h"
+	<stdlib.h>
+	<allegro.h>
+	<time.h>
+	<iostream>
+
+1520215324 c:\users\equipo\documents\proyectos juegos y apps\duel\include\mapa.h
+	"inicia.h"
+	<allegro.h>
+	<stdlib.h>
+
